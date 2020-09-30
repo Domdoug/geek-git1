@@ -58,6 +58,8 @@ exemplo Windows, Linux e Mac OS.
 ## Meta
 
 Seu nome - [@SeuTwitter](https://twitter.com/seuTwitter) - seuemail@gmail.com
+
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
 
